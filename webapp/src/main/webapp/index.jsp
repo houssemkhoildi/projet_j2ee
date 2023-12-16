@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Profile</title>
+    <title> </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,14 +55,15 @@
     </header>
 
     <section>
-        <img src="profile-picture.jpg" alt="Profile Picture" width="150">
-        <h2>John Doe</h2>
-        <p>Web Developer at XYZ Company</p>
-        <p>Location: City, Country</p>
-        <p>Email: john.doe@example.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/johndoe/" target="_blank">linkedin.com/in/johndoe/</a></p>
-        <p>About Me: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit eget nisl euismod tristique.</p>
+        <img src="https://scontent.ftun14-1.fna.fbcdn.net/v/t39.30808-6/347618152_1003805197307188_5527373937108562057_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=efb6e6&amp;_nc_ohc=on2OR6Ot4JgAX9GnZo_&amp;_nc_ht=scontent.ftun14-1.fna&amp;oh=00_AfBTWLmQwCt26NzcmaEQkz3qabenKC7sDBIw4ZOdl8BRKg&amp;oe=6582DA6F" alt="Profile Picture" width="150">
+        <h2>houssem eddin khoildi </h2>
+        <p>Mobile App Developer | DevOps Engineering | full stack developer</p>
+        <p>Tunis</p>
+        <p>houssemeddinkhoildi@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/houssemeddinkhoildi/" target="_blank">https://www.linkedin.com/in/houssemeddinkhoildi/</a></p>
+        
     </section>
 
-</body>
-</html>
+
+
+</body></html>
